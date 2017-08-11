@@ -1,3 +1,5 @@
+# rsc.io/getopt
+
 [For full package documentation, see [https://godoc.org/rsc.io/getopt](https://godoc.org/rsc.io/getopt).]
 
     package getopt // import "rsc.io/getopt"
